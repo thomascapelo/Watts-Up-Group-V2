@@ -1,0 +1,3 @@
+[11-Apr-2023 14:30:45] NOTICE: fpm is running, pid 443
+[11-Apr-2023 14:30:45] NOTICE: ready to handle connections
+[12-Apr-2023 10:08:22] WARNING: [pool www] child 458 said into stderr: "sh: gs: command not found"
